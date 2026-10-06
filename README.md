@@ -1,0 +1,2 @@
+# INTERMINAL
+снос бот
